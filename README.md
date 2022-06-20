@@ -1,6 +1,14 @@
-#Jogo Detetive
+# Jogo Detetive
 
-Resolução de problemas com lógica matemática
+> Resolução de problemas com lógica matemática
+
+### Grupo
+
+*Bruna Glislere*
+
+*Diego Barreto Pedroso Simões*
+
+*Marco Aurélio Silva de Souza Júnior*
 
 ## Requisitos
 
