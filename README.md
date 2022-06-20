@@ -1,2 +1,1 @@
-#Jogo detetive
-Disciplina de Lógica matemática
+#detetive
